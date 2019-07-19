@@ -1,0 +1,9 @@
+D:\C#\ExtraClassProject\ExtraClassLibrary\bin\Debug\ExtraClassLibrary.dll
+D:\C#\ExtraClassProject\ExtraClassLibrary\bin\Debug\ExtraClassLibrary.pdb
+D:\C#\ExtraClassProject\ExtraClassLibrary\obj\Debug\ExtraClassLibrary.csproj.CoreCompileInputs.cache
+D:\C#\ExtraClassProject\ExtraClassLibrary\obj\Debug\ExtraClassLibrary.dll
+D:\C#\ExtraClassProject\ExtraClassLibrary\obj\Debug\ExtraClassLibrary.pdb
+D:\C#\ExtraClassProject\ExtraClassLibrary\obj\Debug\ExtraClassLibrary.csprojAssemblyReference.cache
+D:\C#\ExtraClassProject\ExtraClassLibrary\bin\Debug\Dapper.dll
+D:\C#\ExtraClassProject\ExtraClassLibrary\bin\Debug\Dapper.xml
+D:\C#\ExtraClassProject\ExtraClassLibrary\obj\Debug\ExtraClassLibrary.csproj.CopyComplete

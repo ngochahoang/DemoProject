@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraClassLibrary", "ExtraClassLibrary\ExtraClassLibrary.csproj", "{F1FFC994-7FC7-4021-B988-F69FFF8FC050}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraClassUI", "ExtraClassUI\ExtraClassUI.csproj", "{980951AC-A388-44E2-9F52-39E336847696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1FFC994-7FC7-4021-B988-F69FFF8FC050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FFC994-7FC7-4021-B988-F69FFF8FC050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FFC994-7FC7-4021-B988-F69FFF8FC050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FFC994-7FC7-4021-B988-F69FFF8FC050}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980951AC-A388-44E2-9F52-39E336847696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980951AC-A388-44E2-9F52-39E336847696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980951AC-A388-44E2-9F52-39E336847696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980951AC-A388-44E2-9F52-39E336847696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0881887E-1F99-40BD-A171-2A9BC8C69A28}
+	EndGlobalSection
+EndGlobal
